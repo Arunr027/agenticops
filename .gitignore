@@ -1,0 +1,22 @@
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local environment and editor files
+.vscode/
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+htmlcov/
